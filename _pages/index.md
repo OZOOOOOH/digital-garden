@@ -13,8 +13,7 @@ permalink: /
 
 ### Paper Review
 
-- [[GLIP]]
-- [[Overcoming catastrophic forgetting in neural networks]]
+[[paper]]
 
 <style>
   .wrapper {
