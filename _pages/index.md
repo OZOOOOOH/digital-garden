@@ -11,9 +11,7 @@ permalink: /
   My Study Archive
 </p>
 
-### Paper Review
-
-[[paper]]
+### [[paper|Paper Review]]
 
 <style>
   .wrapper {
