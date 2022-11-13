@@ -11,7 +11,11 @@ permalink: /
   My Study Archive
 </p>
 
-Paper Review
+### Paper Review
+
+- [[GLIP]]
+- [[Overcoming catastrophic forgetting in neural networks]]
+
 <style>
   .wrapper {
     max-width: 46em;
