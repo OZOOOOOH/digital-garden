@@ -4,7 +4,8 @@
 	1. 중요한 Weight은 최대한 변화하지 않도록 하고,
 	2. 중요하지 않은 Weight들 위주로 학습하도록 한다.
 
-![[Pasted image 20221113201834.png | 300]]
+<img src="Pasted image 20221113201834.png" width="50%">
+
 L2 Regularization을 통해 A를 학습한 Weight의 변화량을 최소화 하면서 새로운 B를 학습하면,
 task A,B 모두 제대로 수렴하지 못하게 된다.
 	L2는 단순히 변화량이 작아지도록 정규화하기 때문
@@ -12,7 +13,8 @@ task A,B 모두 제대로 수렴하지 못하게 된다.
 
 ## Loss Function
 
-![[Pasted image 20221113175924.png | 400]]
+<img src="Pasted image 20221113175924.png" width="50%">
+
 $L_B(\theta)$는 task B 를 위한 Loss.
 	ex) classification task인 경우 cross entropy
 $F_i$는 3가지 특징을 갖고 있다.
