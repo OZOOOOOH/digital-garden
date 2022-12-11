@@ -1,2 +1,2 @@
-Object detection 태스크에서 Synchronized BN은 중요하다
-본 논문에서는 상대적으로 작은 배치 사이즈가 각 GPU에 미치는 영향을 확인하기 위해서 Yolov3에 Synchronized BN 중요성을 리뷰한다.
+- Object detection 태스크에서 Synchronized BN은 중요하다
+- 본 논문에서는 상대적으로 작은 배치 사이즈가 각 GPU에 미치는 영향을 확인하기 위해서 Yolov3에 Synchronized BN 중요성을 리뷰한다.
