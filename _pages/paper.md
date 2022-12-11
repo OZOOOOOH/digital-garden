@@ -9,3 +9,4 @@ permalink: /paper-review
 - [[GLIP]]
 - [[Overcoming catastrophic forgetting in neural networks]]
 - [[Bag of Freebies for Training Object Detection Neural Networks]]
+- [[Data Augmentation for Scene Text Recognition]]
