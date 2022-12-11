@@ -3,4 +3,4 @@
 - Real world의 날씨 조건은 매우 다양해서 모든 상황을 다루는 것이 불가능할 수도 있음.
 - Weather 그룹은 특정 상황만 다룸
 
-<img src="Pasted image 20221211165357.png" width="50%">
+<img src="./Pasted image 20221211165357.png" width="50%">
