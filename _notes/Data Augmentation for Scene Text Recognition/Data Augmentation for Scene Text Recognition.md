@@ -1,6 +1,4 @@
-Paper: [Data Augmentation for Scene Text Recognition](https://arxiv.org/abs/2108.06949)
-
----
+# Paper: [Data Augmentation for Scene Text Recognition](https://arxiv.org/abs/2108.06949)
 
 ## 한줄 요약
 
@@ -30,7 +28,8 @@ STR 태스크에 적합한 Data Augmentation 36가지 기법을 제안
 2. STR태스크는 보통 합성 데이터셋과 자동 어노테이션으로 생성된 데이터셋에 의존
 3. 이러한 데이터셋들은 curved, noisy, distorted, blurry, under perspective transformation or rotated한 데이터에 취약했음
 4. 데이터 어그멘테이션이 학습, 평가 데이터셋 간의 distribution 간극을 좁혀줄 수 있기 때문에 본 논문에서는 STR 태스크를 위한 데이터 어그멘테이션 기법을 제안
- - 각 기능은 실제 세계에서 볼 수 있는 text 이미지 특성을 따라함
+
+- 각 기능은 실제 세계에서 볼 수 있는 text 이미지 특성을 따라함
 
 ---
 
@@ -45,7 +44,7 @@ STR 태스크에 적합한 Data Augmentation 36가지 기법을 제안
 
 - 위 사진은 Real world에서 Text는 기계가 이해하기 힘들다는 것을 보여주는 사례
 
-----
+---
 
 ## Data Augmentation for STR
 
