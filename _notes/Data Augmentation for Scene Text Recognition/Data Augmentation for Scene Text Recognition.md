@@ -1,4 +1,4 @@
-# Paper: [Data Augmentation for Scene Text Recognition](https://arxiv.org/abs/2108.06949)
+Paper: [Data Augmentation for Scene Text Recognition](https://arxiv.org/abs/2108.06949)
 
 ## 한줄 요약
 
@@ -40,7 +40,8 @@ STR 태스크에 적합한 Data Augmentation 36가지 기법을 제안
 - 이미지는 여러 환경에 영향을 받음
   - 카메라 센서 방향, 위치, 불완전성(blur, noise, geometric 왜곡 등)
 - 날씨 같은 요소들이 Text 형태에 크게 영향을 미침
-<img src="Pasted image 20221211143543.png" width="50%">
+
+- <img src="/_notes/Data Augmentation for Scene Text Recognition/Pasted image 20221211143543.png" width="50%">
 
 - 위 사진은 Real world에서 Text는 기계가 이해하기 힘들다는 것을 보여주는 사례
 
